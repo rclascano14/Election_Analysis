@@ -31,7 +31,9 @@ The Election-Audit Summary can be presented in the following points:
   - Candidate 1 - Diana DeGette
   - Candidate 2 - Charles Casper Stockham
   - Candidate 3 - Raymon Anthony Doane
+  
 - The Candidate Results Were:
+
   - Candidate 1 received 73.8% of the vote and 272,892 number of votes.
   - Candidate 2 received 23% of the vote and 85,213 number of votes.
   - Candidate 3 received 3.1% of the vote and 11,606 number of votes.
